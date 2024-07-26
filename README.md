@@ -4,13 +4,11 @@ Hi 👋 My name is Ignatio Julian
 iOS Developer
 -------------
 
-I've been learning in Mobile App for 2 years++, Focused on mobile application development also currently deep dive into iOS App Development. I also ever involved and contribute in several project across industry such as ecommerce & banking mobile app
+I've been in Mobile App for 4 years++, Focused on mobile application development also currently deep dive into iOS App Development. I also ever involved and contribute in several project across industry such as ecommerce & banking mobile app
 
 *   🌍  I'm based in Jakarta, ID
 *   🖥️  See my portfolio at [MyPersonalWebsite](http://ignatiojulian.netlify.app)
 *   ✉️  You can contact me at [ignatiojulian@gmail.com](mailto:ignatiojulian@gmail.com)
-*   🚀  I'm currently working on [Astro](https://www.astronauts.id)
-*   🧠  I'm learning iOS Development
 
 ### Skills
 
